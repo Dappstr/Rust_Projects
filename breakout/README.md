@@ -1,1 +1,1 @@
-Breakout game for Rust practice following along a tutorial.
+Breakout game for Rust practice following along a tutorial. WIP.
