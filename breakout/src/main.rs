@@ -1,3 +1,5 @@
+// TODO: Find and fix bug related to block positioning
+
 use macroquad::prelude::*;
 
 mod blocks;
